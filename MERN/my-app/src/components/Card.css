@@ -1,0 +1,14 @@
+.card {
+    width: 320px;
+    height: 520px;
+  }
+  .row{
+    margin-left: 10px;
+  }
+  .col-md-4{
+    padding: 10px;
+  }
+  img{
+    height: 350px;
+    width:50px;
+  }
